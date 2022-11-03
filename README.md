@@ -7,3 +7,5 @@ Features:
 3) Powerful Code Obfustication for bypassing Anti’s
 4) Simple and Easy Graphical Interface
 5) Tested with Ahmyth Rat
+
+# TELEGRAM : https://t.me/mave12x
